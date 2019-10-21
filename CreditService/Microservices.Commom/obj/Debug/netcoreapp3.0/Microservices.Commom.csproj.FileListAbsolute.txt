@@ -1,0 +1,5 @@
+F:\Projects\RabbitIntegratedMicroservices\CreditService\Microservices.Commom\bin\Debug\netcoreapp3.0\Microservices.Commom.deps.json
+F:\Projects\RabbitIntegratedMicroservices\CreditService\Microservices.Commom\bin\Debug\netcoreapp3.0\Microservices.Commom.dll
+F:\Projects\RabbitIntegratedMicroservices\CreditService\Microservices.Commom\obj\Debug\netcoreapp3.0\Microservices.Commom.csprojAssemblyReference.cache
+F:\Projects\RabbitIntegratedMicroservices\CreditService\Microservices.Commom\obj\Debug\netcoreapp3.0\Microservices.Commom.AssemblyInfoInputs.cache
+F:\Projects\RabbitIntegratedMicroservices\CreditService\Microservices.Commom\obj\Debug\netcoreapp3.0\Microservices.Commom.AssemblyInfo.cs

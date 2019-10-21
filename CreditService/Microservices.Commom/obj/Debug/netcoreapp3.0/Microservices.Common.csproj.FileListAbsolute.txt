@@ -1,0 +1,7 @@
+F:\Projects\RabbitIntegratedMicroservices\CreditService\Microservices.Commom\bin\Debug\netcoreapp3.0\Microservices.Common.deps.json
+F:\Projects\RabbitIntegratedMicroservices\CreditService\Microservices.Commom\bin\Debug\netcoreapp3.0\Microservices.Common.dll
+F:\Projects\RabbitIntegratedMicroservices\CreditService\Microservices.Commom\bin\Debug\netcoreapp3.0\Microservices.Common.pdb
+F:\Projects\RabbitIntegratedMicroservices\CreditService\Microservices.Commom\obj\Debug\netcoreapp3.0\Microservices.Common.AssemblyInfoInputs.cache
+F:\Projects\RabbitIntegratedMicroservices\CreditService\Microservices.Commom\obj\Debug\netcoreapp3.0\Microservices.Common.AssemblyInfo.cs
+F:\Projects\RabbitIntegratedMicroservices\CreditService\Microservices.Commom\obj\Debug\netcoreapp3.0\Microservices.Common.dll
+F:\Projects\RabbitIntegratedMicroservices\CreditService\Microservices.Commom\obj\Debug\netcoreapp3.0\Microservices.Common.pdb
