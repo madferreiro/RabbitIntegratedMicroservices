@@ -10,7 +10,7 @@
     <PackageReference Include="MassTransit.RabbitMQ" Version="5.5.5" />
     <PackageReference Include="MassTransit.SerilogIntegration" Version="5.5.5" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication" Version="2.2.0" />
-    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.18" />
     <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.0.0" />
     <PackageReference Include="Serilog.Sinks.ElasticSearch" Version="8.0.0" />
